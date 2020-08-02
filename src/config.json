@@ -1,0 +1,6 @@
+{
+    "install_go" : {
+        "url_base": "https://127.0.0.1",
+        "package_name": "go1.14.4.linux-amd64.tar.gz"
+    }
+}
